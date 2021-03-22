@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on web and data science live projects.
 - 🤔 I’m looking for help with internship opportunities in web devlopment.
 - 💬 Ask me about web technologies and cricket.
-- 📫 How to reach me: linkedin: [Linkedin: linkedin.com/in/chandan-mishra-45a42715b](https://www.linkedin.com/in/chandan-mishra-45a42715b);
+- 📫 How to reach me: linkedin: [Linkedin: linkedin.com/in/chandan-mishra-45a42715b](https://www.linkedin.com/in/chandan-mishra-45a42715b)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent lots of time on overthinking.
 
