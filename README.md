@@ -1,7 +1,7 @@
 ### Hello I'm Chandan Mishra! 👋
 
-- 🔭 I’m currently working on developing problem solving skills using Data Structures and Algorithm.
-- 🌱 I’m currently learning MERN STACK technologies.
+- 🔭 I’m currently working on developing my problem solving skills with knowledge of Data Structures and Algorithm.
+- 🌱 I’m currently learning MERN STACK technologies for devlopment work.
 - 👯 I’m looking to collaborate on web and data science live projects.
 - 🤔 I’m looking for an internship opportunities in web development.
 - 💬 Ask me about web technologies and cricket.
