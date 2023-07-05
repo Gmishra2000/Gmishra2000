@@ -1,9 +1,9 @@
 ### Hello I'm Chandan Mishra! 👋
 
-- 🔭 I’m currently developing my problem solving skills with knowledge of Data Structures and Algorithm.
-- 🌱 I’m currently learning MERN STACK technologies for devlopment work.
-- 👯 I’m looking to collaborate on web and data science live projects.
-- 🤔 I’m looking for an internship opportunities in web development.
+- 🔭 I’m currently working as Software Enginner at Pepperfry Ltd.
+- 🌱 I’m have knowledge of Data Structures Algorithm and Web development stack like Angular and React.
+- 👯 I’m looking to collaborate on web development live projects.
+- 🤔 I’m also looking for an work opportunities in Software Engineering.
 - 💬 Ask me about web technologies and cricket.
 - 📫 How to reach me: linkedin: [Linkedin: linkedin.com/in/chandan-mishra-45a42715b](https://www.linkedin.com/in/chandan-mishra-45a42715b)
 - 😄 Pronouns: He/His
