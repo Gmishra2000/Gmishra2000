@@ -1,6 +1,6 @@
 ### Hello I'm Chandan Mishra! 👋
 
-- 🔭 I’m currently working as Software Enginner at Pepperfry Ltd.
+- 🔭 I’m currently working as Software Engineer at Pepperfry Ltd.
 - 🌱 I’m have knowledge of Data Structures Algorithm and Web development stack like Angular and React.
 - 👯 I’m looking to collaborate on web development live projects.
 - 🤔 I’m also looking for an work opportunities in Software Engineering.
