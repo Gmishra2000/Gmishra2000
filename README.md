@@ -1,7 +1,7 @@
 ### Hello I'm Chandan Mishra a Software Engineer! 👋
 
-- 🔭 I’m currently working as a Software Engineer at Pepperfry Ltd using tech stack of Angular, Scss, Git, and Typescript.
-- 🌱 I have knowledge of Data Structures Algorithm and Full stack development knowledge of MEAN And MERN.
+- 🔭 I’m currently working as a Software Engineer at Pepperfry Ltd using tech stack of Angular, Node.js, Mysql, Prisma, Scss, Git, and Typescript.
+- 🌱 I have knowledge of Full stack development knowledge of MEAN And MERN.
 - 👯 I’m looking to collaborate on web development live projects.
 - 🤔 I’m also looking for work opportunities in Software Engineering.
 - 💬 Ask me about web technologies and cricket.
